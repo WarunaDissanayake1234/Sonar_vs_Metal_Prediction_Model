@@ -45,9 +45,7 @@ The dataset used in this project contains sonar signals obtained from bouncing o
 
 The dataset used for this project is sourced from [provide_source_here].
 
-## License
 
-This project is licensed under [license_name]. See the `LICENSE` file for details.
 
 ---
 
