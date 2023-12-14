@@ -43,7 +43,7 @@ The dataset used in this project contains sonar signals obtained from bouncing o
 
 ## Acknowledgments
 
-The dataset used for this project is sourced from [provide_source_here].
+The dataset used for this project is sourced from https://www.kaggle.com/code/sugamkhetrapal/project-3-sonar-mines-vs-rocks.
 
 
 
