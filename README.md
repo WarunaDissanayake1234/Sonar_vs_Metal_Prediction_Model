@@ -20,7 +20,7 @@ This project utilizes logistic regression to create a predictive model. The data
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Sonar_vs_Metal_Prediction_Model.git
+   https://github.com/WarunaDissanayake1234/Sonar_vs_Metal_Prediction_Model.git
    ```
 
 2. **Install Dependencies:**
